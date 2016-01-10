@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The best big wave surfers of all time    Big wave surfing is the ultimate celebration of extreme surfing. Challenging deadly waves in harsh weather and ocean co
-datePublished: '2016-01-10T07:09:53.940Z'
-dateModified: '2016-01-10T07:07:16.246Z'
+datePublished: '2016-01-10T15:52:58.693Z'
+dateModified: '2016-01-10T15:52:19.438Z'
 author: []
 title: ''
 sourcePath: _posts/2016-01-10-the-best-big-wave-surfers-of-all-time-big-wave-surfing-is.md
