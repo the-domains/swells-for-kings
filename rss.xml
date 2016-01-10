@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Swells For Kings]]></title>
+        <description><![CDATA[Swells For Kings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 06:57:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61e893c2-628b-42c1-8a45-e271ee3b3447.png">]]></description>
+            <link>undefined03ff022f-dd82-45c3-99e6-584e0fab2b82/index.html</link>
+            <guid isPermaLink="false">03ff022f-dd82-45c3-99e6-584e0fab2b82</guid>
+            <pubDate>Sun, 10 Jan 2016 06:57:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
