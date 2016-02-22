@@ -1,40 +1,40 @@
-name: Swells For Kings
 favicon: null
-layout_spectrum: 0.99772
-typography_spectrum: 0.93359
+name: Swells For Kings
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.625
+  brandStrength: 0.4641576
+  lightness: 0.5
   brandColors:
     - '#ffffff'
     - '#4c6569'
     - '#d1d6dc'
     - '#a5afbb'
     - '#000706'
-  brandStrength: 0.875
-  lightness: 0.5
-  saturation: 0.625
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.93359
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.99772
+analytics:
+  twitter: null
+  google: null
+  facebook: null
