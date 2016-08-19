@@ -1,7 +1,30 @@
-name: SwellsForKings
-favicon: null
-layout_spectrum: 0.99772
 typography_spectrum: 0.93359
+color:
+  brandColors:
+    - '#ffffff'
+    - '#4c6569'
+    - '#d1d6dc'
+    - '#a5afbb'
+    - '#000706'
+  brandStrength: 0.4641576
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99772
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SwellsForKings
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#4c6569'
-    - '#d1d6dc'
-    - '#a5afbb'
-    - '#000706'
-  brandStrength: 0.4641576
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.75
+title: Courage of Kings
 purpose: []
